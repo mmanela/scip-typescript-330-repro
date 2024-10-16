@@ -1,0 +1,12 @@
+{
+    "extends": "../tsconfig.json",
+    "compilerOptions": {
+      "outDir": "../dist/child",
+      "rootDir": "."
+    },
+    "include": ["child.ts"],
+    "references": [
+      { "path": ".." }
+    ]
+  }
+  
