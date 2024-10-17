@@ -1,0 +1,134 @@
+{
+  "metadata": {
+    "toolInfo": {
+      "name": "scip-typescript",
+      "version": "0.3.12"
+    },
+    "projectRoot": "file:///Users/mmanela/dev/sg/typescript-sample/child",
+    "textDocumentEncoding": "UTF8"
+  },
+  "documents": [
+    {
+      "relativePath": "../index.ts",
+      "occurrences": [
+        {
+          "range": [
+            0,
+            0,
+            0
+          ],
+          "symbol": "scip-typescript npm typescript-sample 1.0.0 `index.ts`/",
+          "symbolRoles": 1
+        },
+        {
+          "range": [
+            0,
+            16,
+            21
+          ],
+          "symbol": "scip-typescript npm typescript-sample 1.0.0 `index.ts`/greet().",
+          "symbolRoles": 1
+        },
+        {
+          "range": [
+            0,
+            22,
+            26
+          ],
+          "symbol": "scip-typescript npm typescript-sample 1.0.0 `index.ts`/greet().(name)",
+          "symbolRoles": 1
+        },
+        {
+          "range": [
+            1,
+            21,
+            25
+          ],
+          "symbol": "scip-typescript npm typescript-sample 1.0.0 `index.ts`/greet().(name)"
+        }
+      ],
+      "symbols": [
+        {
+          "symbol": "scip-typescript npm typescript-sample 1.0.0 `index.ts`/",
+          "documentation": [
+            "```ts\nmodule \"index.ts\"\n```"
+          ]
+        },
+        {
+          "symbol": "scip-typescript npm typescript-sample 1.0.0 `index.ts`/greet().",
+          "documentation": [
+            "```ts\nfunction greet(name: string): string\n```"
+          ]
+        },
+        {
+          "symbol": "scip-typescript npm typescript-sample 1.0.0 `index.ts`/greet().(name)",
+          "documentation": [
+            "```ts\n(parameter) name: string\n```"
+          ]
+        }
+      ]
+    },
+    {
+      "relativePath": "child.ts",
+      "occurrences": [
+        {
+          "range": [
+            0,
+            0,
+            0
+          ],
+          "symbol": "scip-typescript npm typescript-sample 1.0.0 child/`child.ts`/",
+          "symbolRoles": 1
+        },
+        {
+          "range": [
+            0,
+            9,
+            14
+          ],
+          "symbol": "scip-typescript npm typescript-sample 1.0.0 `index.ts`/greet()."
+        },
+        {
+          "range": [
+            0,
+            22,
+            32
+          ],
+          "symbol": "scip-typescript npm typescript-sample 1.0.0 `index.ts`/"
+        },
+        {
+          "range": [
+            2,
+            0,
+            7
+          ],
+          "symbol": "scip-typescript npm typescript 5.4.4 lib/`lib.dom.d.ts`/console."
+        },
+        {
+          "range": [
+            2,
+            8,
+            11
+          ],
+          "symbol": "scip-typescript npm typescript 5.4.4 lib/`lib.dom.d.ts`/Console#log()."
+        },
+        {
+          "range": [
+            2,
+            12,
+            17
+          ],
+          "symbol": "scip-typescript npm typescript-sample 1.0.0 `index.ts`/greet()."
+        }
+      ],
+      "symbols": [
+        {
+          "symbol": "scip-typescript npm typescript-sample 1.0.0 child/`child.ts`/",
+          "documentation": [
+            "```ts\nmodule \"child.ts\"\n```"
+          ]
+        }
+      ]
+    }
+  ]
+}
