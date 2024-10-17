@@ -14,4 +14,4 @@ The issue is caused due to the
     ]
 ```
 
-property in the child folders tsconfig.json.
+property in the child folder's tsconfig.json.
